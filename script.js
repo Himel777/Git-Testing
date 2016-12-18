@@ -1,5 +1,7 @@
 var numbers = [1, 2, 3, 4, 5, 6];
 
+// calculating the sum //
+
 function sum(n) {
 	var summation = 0;
 	
